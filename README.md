@@ -6,7 +6,7 @@
 
 ### │ Tom's:
 
-[Chipotle Roasted Sweetcorn](/chipotle-roasted-sweetcorn.MD)
+[Chipotle Roasted Sweetcorn](/chipotle-roasted-sweetcorn.md)
 
 ### │ Carlton's:
 
