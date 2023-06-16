@@ -19,7 +19,7 @@ Takes: **~1 hour**
 | ---------------------- | :----------------------: |
 | Squash                 | 750g cut into 1cm slices |
 | Sweetcorn              |         4 whole          |
-| Black beans            |        1 teaspoon        |
+| Black beans            |       1x 400g tin        |
 | Chipotle chilli flakes |        1 teaspoon        |
 | Ground coriander       |        1 teaspoon        |
 | Ground cumin           |        1 teaspoon        |
