@@ -15,7 +15,7 @@ Takes: **~1 hour**
 
 ## │ Ingredients List:
 
-<center>
+<div align="center">
 
 | Ingredient             |          Amount          |
 | ---------------------- | :----------------------: |
@@ -32,7 +32,7 @@ Takes: **~1 hour**
 | Fresh coriander        |           25g            |
 | Spring onions          |            2             |
 
-</center>
+</div>
 
 ## │ Process
 
