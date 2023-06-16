@@ -15,6 +15,8 @@ Takes: **~1 hour**
 
 ## │ Ingredients List:
 
+<center>
+
 | Ingredient             |          Amount          |
 | ---------------------- | :----------------------: |
 | Squash                 | 750g cut into 1cm slices |
@@ -29,6 +31,8 @@ Takes: **~1 hour**
 | Feta cheese            |     200g (crumbled)      |
 | Fresh coriander        |           25g            |
 | Spring onions          |            2             |
+
+</center>
 
 ## │ Process
 
