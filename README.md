@@ -13,3 +13,5 @@
 [Bacon & Mushroom Risotto](/risotto.md)
 
 ### │ Beth's:
+
+[Chicken Fajitas](/Fajitas.md)
