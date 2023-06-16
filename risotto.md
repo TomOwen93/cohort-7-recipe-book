@@ -18,3 +18,7 @@
 - Stir in the rice and cook until all the juices have been absorbed.
 - Add the stock, a ladleful at a time, stirring well.
 - Once the rice is cooked, season and serve with the grated Parmesan.
+
+### Credit:
+
+Recipe found at [bbcgoodgood.com](https://www.bbcgoodfood.com/recipes/bacon-mushroom-risotto).
